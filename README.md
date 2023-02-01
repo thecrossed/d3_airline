@@ -2,7 +2,7 @@
 project for learning D3
 
 # Deployment
-[Here](https://thecrossed.github.io/d3_airline/d3_w1.html) you can see how does the visualization look like.
+[Here](https://thecrossed.github.io/d3_airline/index.html) you can see how does the visualization look like.
 
 # Description
 This project is to help me learn D3, a Javascript package for building interactive data visualization. The content is from the course Information Visualization bundle at Coursera[link](https://www.coursera.org/learn/information-visualization-programming-d3js/home/week/1).
